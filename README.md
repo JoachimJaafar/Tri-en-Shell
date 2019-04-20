@@ -1,7 +1,7 @@
 # Tri-en-Shell
 Affiche l'arborescence d'un dossier selon les options données en argument.
 
-La syntaxe de la commande est : trishell.sh [-R] [-d] [-nsmletpg] repertoire
+La syntaxe de la commande est : ./trishell.sh [-R] [-d] [-nsmletpg] repertoire
 
 Les différentes options sont les suivantes :
 - R : tri le contenu de l’arborescence débutant au répertoire rep. Dans ce cas on triera par rapport aux
